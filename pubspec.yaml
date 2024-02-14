@@ -1,0 +1,11 @@
+name: encoder
+description: A library for encoding string and json data into viable URI param.
+version: 1.0.0
+repository: https://github.com/callmephil/encoder
+
+environment:
+  sdk: ^3.2.6
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
